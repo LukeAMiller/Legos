@@ -1,26 +1,11 @@
 {
   "legoCreation": [
     {
-      "id": 1,
-      "creator": "Per Sun",
-      "color": "Black",
-      "shape": "Animal",
-      "creation": "Black Cow"
-    },
-    {
       "color": "Red",
       "creator": "Luke",
       "shape": "triangle",
       "creation": "starship",
       "id": 2
-    },
-    {
-      "color": "azul",
-      "creator": "Luke",
-      "shape": "box",
-      "creation": "house",
-      "id": 5
     }
-   
   ]
 }

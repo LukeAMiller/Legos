@@ -7,6 +7,7 @@ const makeLegoEntryComponent =  {
     <p>${singleLegoObject.color}</p>
     <p>${singleLegoObject.shape}</p>
     <p>${singleLegoObject.creation}</p>
+    <button id ="delete-student-${singleLegoObject.id}">Delete</button>
     </article>
       `;}
     }
